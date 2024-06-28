@@ -1,4 +1,6 @@
-export default function HTML5() {
+import PropTypes from "prop-types";
+
+function HTML5_SVG({ width, height }) {
   return (
     <div>
       <svg width="0" height="0">
@@ -17,8 +19,8 @@ export default function HTML5() {
         xmlns="http://www.w3.org/2000/svg"
         x="0px"
         y="0px"
-        width="80"
-        height="80"
+        width={width}
+        height={height}
         viewBox="0 0 128 128"
         fill="#FFFFFF"
         className="hover:glow"
@@ -28,3 +30,10 @@ export default function HTML5() {
     </div>
   );
 }
+
+HTML5_SVG.propTypes = {
+  width: PropTypes.number.isRequired,
+  height: PropTypes.number.isRequired,
+};
+
+export default HTML5_SVG;

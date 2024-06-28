@@ -1,6 +1,8 @@
-export default function Discord() {
+import PropTypes from "prop-types";
+
+function DISCORD_SVG({ width, height }) {
   return (
-    <a href="https://discord.gg/c9ffN3pRwj">
+    <a href="https://discord.gg/K5WJuXHuTN">
       <svg width="0" height="0">
         <defs>
           <filter id="glow-filter" x="-50%" y="-50%" width="200%" height="200%">
@@ -16,8 +18,8 @@ export default function Discord() {
         xmlns="http://www.w3.org/2000/svg"
         x="0px"
         y="0px"
-        width="80"
-        height="80"
+        width={width}
+        height={height}
         viewBox="0 0 50 50"
         fill="white"
         className="hover:glow"
@@ -27,3 +29,10 @@ export default function Discord() {
     </a>
   );
 }
+
+DISCORD_SVG.propTypes = {
+  width: PropTypes.number.isRequired,
+  height: PropTypes.number.isRequired,
+};
+
+export default DISCORD_SVG;
