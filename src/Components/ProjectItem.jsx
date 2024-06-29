@@ -21,7 +21,11 @@ const ProjectItem = ({
               <Icon width={width} height={height} />
             </div>
           ))}
-          <div className="p-2">{projectName}</div>
+          <div className="p-2">
+            <a href={link} className="text-white hover:text-white hover:glow">
+              {projectName}
+            </a>
+          </div>
         </div>
         <div className="px-2">{description}</div>
         <div className="text-left pl-2 weight-bold">
