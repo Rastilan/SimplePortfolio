@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import HeroPlate from "./Components/HeroPlate";
 import Social from "./Components/Social";
