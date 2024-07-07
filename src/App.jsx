@@ -10,8 +10,8 @@ function App() {
     <span className="flex flex-col justify-between h-screen">
       <HeroPlate />
       <Social />
-      <Skills />
       <Projects />
+      <Skills />
       <BuiltWith />
     </span>
   );
