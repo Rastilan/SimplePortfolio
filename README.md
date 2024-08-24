@@ -170,7 +170,7 @@ Just flexbox and quick links to projects.
 
 Ensure you have the following dependencies installed on your system:
 
-* **JavaScript**: `version x.y.z`
+* NodeJS
 
 ###  Installation
 
