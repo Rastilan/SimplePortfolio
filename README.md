@@ -106,12 +106,12 @@ Just flexbox and quick links to projects.
 
 | File                                                                                             | Summary                                        |
 | ---                                                                                              | ---                                            |
-| [index.html](https://github.com/Rastilan/SimplePortfolio/blob/master/index.html)                 | HTTP error 429 for prompt `index.html`         |
-| [postcss.config.js](https://github.com/Rastilan/SimplePortfolio/blob/master/postcss.config.js)   | HTTP error 429 for prompt `postcss.config.js`  |
-| [vite.config.js](https://github.com/Rastilan/SimplePortfolio/blob/master/vite.config.js)         | HTTP error 429 for prompt `vite.config.js`     |
-| [package.json](https://github.com/Rastilan/SimplePortfolio/blob/master/package.json)             | HTTP error 429 for prompt `package.json`       |
-| [tailwind.config.js](https://github.com/Rastilan/SimplePortfolio/blob/master/tailwind.config.js) | HTTP error 429 for prompt `tailwind.config.js` |
-| [package-lock.json](https://github.com/Rastilan/SimplePortfolio/blob/master/package-lock.json)   | HTTP error 429 for prompt `package-lock.json`  |
+| [index.html](https://github.com/Rastilan/SimplePortfolio/blob/master/index.html)                 | The main page of the portfolio `index.html`         |
+| [postcss.config.js](https://github.com/Rastilan/SimplePortfolio/blob/master/postcss.config.js)   | CSS for the app `postcss.config.js`  |
+| [vite.config.js](https://github.com/Rastilan/SimplePortfolio/blob/master/vite.config.js)         | Config file for Vite. `vite.config.js`     |
+| [package.json](https://github.com/Rastilan/SimplePortfolio/blob/master/package.json)             |  `package.json`       |
+| [tailwind.config.js](https://github.com/Rastilan/SimplePortfolio/blob/master/tailwind.config.js) | Tailwind config `tailwind.config.js` |
+| [package-lock.json](https://github.com/Rastilan/SimplePortfolio/blob/master/package-lock.json)   | `package-lock.json`  |
 
 </details>
 
@@ -119,10 +119,10 @@ Just flexbox and quick links to projects.
 
 | File                                                                               | Summary                                   |
 | ---                                                                                | ---                                       |
-| [App.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/App.jsx)     | HTTP error 429 for prompt `src/App.jsx`   |
-| [App.css](https://github.com/Rastilan/SimplePortfolio/blob/master/src/App.css)     | HTTP error 429 for prompt `src/App.css`   |
-| [index.css](https://github.com/Rastilan/SimplePortfolio/blob/master/src/index.css) | HTTP error 429 for prompt `src/index.css` |
-| [main.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/main.jsx)   | HTTP error 429 for prompt `src/main.jsx`  |
+| [App.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/App.jsx)     |  `src/App.jsx`   |
+| [App.css](https://github.com/Rastilan/SimplePortfolio/blob/master/src/App.css)     |  `src/App.css`   |
+| [index.css](https://github.com/Rastilan/SimplePortfolio/blob/master/src/index.css) |  `src/index.css` |
+| [main.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/main.jsx)   |  `src/main.jsx`  |
 
 </details>
 
@@ -130,12 +130,12 @@ Just flexbox and quick links to projects.
 
 | File                                                                                                      | Summary                                                    |
 | ---                                                                                                       | ---                                                        |
-| [Projects.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/Projects.jsx)       | HTTP error 429 for prompt `src/Components/Projects.jsx`    |
-| [BuiltWith.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/BuiltWith.jsx)     | HTTP error 429 for prompt `src/Components/BuiltWith.jsx`   |
-| [Social.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/Social.jsx)           | HTTP error 429 for prompt `src/Components/Social.jsx`      |
-| [HeroPlate.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/HeroPlate.jsx)     | HTTP error 429 for prompt `src/Components/HeroPlate.jsx`   |
-| [Skills.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/Skills.jsx)           | HTTP error 429 for prompt `src/Components/Skills.jsx`      |
-| [ProjectItem.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/ProjectItem.jsx) | HTTP error 429 for prompt `src/Components/ProjectItem.jsx` |
+| [Projects.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/Projects.jsx)       |  `src/Components/Projects.jsx`    |
+| [BuiltWith.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/BuiltWith.jsx)     |  `src/Components/BuiltWith.jsx`   |
+| [Social.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/Social.jsx)           |  `src/Components/Social.jsx`      |
+| [HeroPlate.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/HeroPlate.jsx)     |  `src/Components/HeroPlate.jsx`   |
+| [Skills.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/Skills.jsx)           |  `src/Components/Skills.jsx`      |
+| [ProjectItem.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/ProjectItem.jsx) |  `src/Components/ProjectItem.jsx` |
 
 </details>
 
@@ -143,22 +143,22 @@ Just flexbox and quick links to projects.
 
 | File                                                                                                              | Summary                                                          |
 | ---                                                                                                               | ---                                                              |
-| [HTML5_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/HTML5_SVG.jsx)         | HTTP error 429 for prompt `src/Components/SVG/HTML5_SVG.jsx`     |
-| [OPENLINK_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/OPENLINK_SVG.jsx)   | HTTP error 429 for prompt `src/Components/SVG/OPENLINK_SVG.jsx`  |
-| [TAILWIND_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/TAILWIND_SVG.jsx)   | HTTP error 429 for prompt `src/Components/SVG/TAILWIND_SVG.jsx`  |
-| [BLENDER_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/BLENDER_SVG.jsx)     | HTTP error 429 for prompt `src/Components/SVG/BLENDER_SVG.jsx`   |
-| [BOOTSTRAP_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/BOOTSTRAP_SVG.jsx) | HTTP error 429 for prompt `src/Components/SVG/BOOTSTRAP_SVG.jsx` |
-| [GIT_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/GIT_SVG.jsx)             | HTTP error 429 for prompt `src/Components/SVG/GIT_SVG.jsx`       |
-| [GITHUB_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/GITHUB_SVG.jsx)       | HTTP error 429 for prompt `src/Components/SVG/GITHUB_SVG.jsx`    |
-| [JS_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/JS_SVG.jsx)               | HTTP error 429 for prompt `src/Components/SVG/JS_SVG.jsx`        |
-| [FIREBASE_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/FIREBASE_SVG.jsx)   | HTTP error 429 for prompt `src/Components/SVG/FIREBASE_SVG.jsx`  |
-| [EMAIL_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/EMAIL_SVG.jsx)         | HTTP error 429 for prompt `src/Components/SVG/EMAIL_SVG.jsx`     |
-| [REACT_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/REACT_SVG.jsx)         | HTTP error 429 for prompt `src/Components/SVG/REACT_SVG.jsx`     |
-| [CSS3_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/CSS3_SVG.jsx)           | HTTP error 429 for prompt `src/Components/SVG/CSS3_SVG.jsx`      |
-| [DISCORD_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/DISCORD_SVG.jsx)     | HTTP error 429 for prompt `src/Components/SVG/DISCORD_SVG.jsx`   |
-| [JSON_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/JSON_SVG.jsx)           | HTTP error 429 for prompt `src/Components/SVG/JSON_SVG.jsx`      |
-| [UNREAL_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/UNREAL_SVG.jsx)       | HTTP error 429 for prompt `src/Components/SVG/UNREAL_SVG.jsx`    |
-| [NODEJS_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/NODEJS_SVG.jsx)       | HTTP error 429 for prompt `src/Components/SVG/NODEJS_SVG.jsx`    |
+| [HTML5_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/HTML5_SVG.jsx)         |  `src/Components/SVG/HTML5_SVG.jsx`     |
+| [OPENLINK_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/OPENLINK_SVG.jsx)   |  `src/Components/SVG/OPENLINK_SVG.jsx`  |
+| [TAILWIND_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/TAILWIND_SVG.jsx)   |  `src/Components/SVG/TAILWIND_SVG.jsx`  |
+| [BLENDER_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/BLENDER_SVG.jsx)     |  `src/Components/SVG/BLENDER_SVG.jsx`   |
+| [BOOTSTRAP_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/BOOTSTRAP_SVG.jsx) |  `src/Components/SVG/BOOTSTRAP_SVG.jsx` |
+| [GIT_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/GIT_SVG.jsx)             |  `src/Components/SVG/GIT_SVG.jsx`       |
+| [GITHUB_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/GITHUB_SVG.jsx)       |  `src/Components/SVG/GITHUB_SVG.jsx`    |
+| [JS_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/JS_SVG.jsx)               |  `src/Components/SVG/JS_SVG.jsx`        |
+| [FIREBASE_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/FIREBASE_SVG.jsx)   |  `src/Components/SVG/FIREBASE_SVG.jsx`  |
+| [EMAIL_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/EMAIL_SVG.jsx)         |  `src/Components/SVG/EMAIL_SVG.jsx`     |
+| [REACT_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/REACT_SVG.jsx)         |  `src/Components/SVG/REACT_SVG.jsx`     |
+| [CSS3_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/CSS3_SVG.jsx)           |  `src/Components/SVG/CSS3_SVG.jsx`      |
+| [DISCORD_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/DISCORD_SVG.jsx)     |  `src/Components/SVG/DISCORD_SVG.jsx`   |
+| [JSON_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/JSON_SVG.jsx)           |  `src/Components/SVG/JSON_SVG.jsx`      |
+| [UNREAL_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/UNREAL_SVG.jsx)       |  `src/Components/SVG/UNREAL_SVG.jsx`    |
+| [NODEJS_SVG.jsx](https://github.com/Rastilan/SimplePortfolio/blob/master/src/Components/SVG/NODEJS_SVG.jsx)       |  `src/Components/SVG/NODEJS_SVG.jsx`    |
 
 </details>
 
